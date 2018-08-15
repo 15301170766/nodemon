@@ -8,7 +8,7 @@ nodemon将监视启动目录中的文件，如果有任何文件更改，nodemon
 nodemon不需要对代码或开发方式进行任何更改。 nodemon只是简单的包装你的node应用程序，并监控任何已经改变的文件。nodemon只是node的替换包，只是在运行脚本时将其替换命令行上的node。
 
 
-使用教程
+简单步骤
 1、全局安装
 
 npm install -g nodemon
@@ -32,8 +32,3 @@ nodemon ./server.js localhost 8080
 6、开启debug模式
 
 nodemon --debug ./server.js 80
-
-作者：身怀绝技的大壮
-链接：https://www.jianshu.com/p/fc7664e9025c
-來源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
